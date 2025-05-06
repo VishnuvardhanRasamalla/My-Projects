@@ -13,7 +13,7 @@ Welcome to my personal project collection! Here, you'll find a collection of the
 ## 📌 Upcoming Projects
 - Netflix Clone
 - Personal Portfolio Site
-- Spring Boot + Spring or Angular Full Stack Project
+- Spring Boot + Spring or Angular Full Stack Projects
 
 ---
 
